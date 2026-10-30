@@ -1,0 +1,9 @@
+{
+  "name": "marketpulse-backend",
+  "version": "1.0.0",
+  "description": "Proxy backend para Market Pulse — datos reales de Yahoo Finance",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
